@@ -1,27 +1,33 @@
 🛍️ Mauli Store Sales Analysis Dashboard (Excel BI Project)
 📌 Project Overview
 
-The Mauli Store Sales Analysis Dashboard is an interactive Excel-based Business Intelligence project designed to analyze retail sales data and generate actionable business insights.This project focuses on data cleaning, transformation, KPI analysis, and dynamic dashboard creation using Microsoft Excel tools such as Pivot Tables, Charts, and Slicers.The dataset contains over 31,000+ sales transactions, covering customer demographics, sales channels, order status, and geographic performance.
+The Mauli Store Sales Analysis Dashboard is an interactive Excel-based Business Intelligence project developed to analyze retail sales data and generate actionable business insights.
+
+The project focuses on data cleaning, transformation, KPI analysis, and dashboard visualization using Microsoft Excel tools such as Pivot Tables, Pivot Charts, and Slicers.
+
+The dataset contains 31,047 retail sales transactions, including customer demographics, sales channels, order status, and geographic performance metrics.
+
+This dashboard enables stakeholders to monitor sales performance, identify growth opportunities, and support data-driven decision making.
 
 🎯 Project Objectives
 
-* Analyze overall sales performance
+Analyze overall sales performance
 
-* Identify top-performing sales channels
+Identify top-performing sales channels
 
-* Compare sales by gender and age group
+Compare sales by gender and age group
 
-* Track monthly sales trends
+Track monthly sales trends
 
-* Identify high-performing states and cities
+Identify high-performing states and cities
 
-* Evaluate order status distribution (Delivered, Cancelled, etc.)
+Evaluate order status distribution (Delivered, Cancelled, Returned, etc.)
 
 Compare B2B vs B2C sales performance
 
-
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](Mauli_Store.png)
+
+![Mauli Store Sales Dashboard](Mauli_Store.png)
 
 📊 Key KPIs Tracked
 
@@ -41,82 +47,78 @@ Compare B2B vs B2C sales performance
 
 🛠 Tools & Techniques Used
 
-* Microsoft Excel
+Microsoft Excel
 
-* Pivot Tables
+Pivot Tables
 
-* Pivot Charts
+Pivot Charts
 
-* Slicers for Dynamic Filtering
+Slicers for Dynamic Filtering
 
-* Data Cleaning & Formatting
+Data Cleaning & Transformation
 
-* Conditional Formatting
+Conditional Formatting
 
-* GETPIVOTDATA formulas
+GETPIVOTDATA Functions
 
-* Dashboard Design & Layout Optimization
+Dashboard Layout & Visualization Design
 
 📈 Key Insights Generated
 
-* Women customers contribute a higher percentage of total sales.
+Female customers contribute a higher percentage of total sales.
 
-* Certain states generate significantly higher revenue compared to others.
+Certain states generate significantly higher revenue than others.
 
-* Online marketplaces (Amazon, Myntra, Ajio) dominate sales distribution.
+Online marketplaces such as Amazon, Myntra, and Ajio dominate sales distribution.
 
-* Monthly sales trends show peak performance in specific seasons.
+Monthly sales trends reveal peak performance during specific seasonal periods.
 
-* Majority of orders are successfully delivered with minimal cancellations.
+Most orders are successfully delivered with minimal cancellations.
 
-* Adult age group contributes the largest share of revenue.
+The adult age group contributes the largest share of revenue.
 
 📂 Dataset Features
 
-* 31,047 transactions
+31,047 retail sales transactions
 
-* Customer demographics (Age, Gender, Age Group)
+Customer demographics (Age, Gender, Age Group)
 
-* Multi-channel sales data
+Multi-channel sales data
 
-* Category & Size distribution
+Product Category and Size distribution
 
-* Geographic shipping details (City, State)
+Geographic shipping details (City, State)
 
-* Order status tracking
+Order status tracking
 
-* B2B & B2C classification
+B2B and B2C classification
 
 💡 Business Value
 
-* This dashboard helps:
+This dashboard helps businesses:
 
-* Retail managers monitor performance in real time
+Monitor sales performance in real time
 
-* Identify high-performing markets
+Identify high-performing regions and markets
 
-* Improve inventory planning
+Improve inventory planning
 
-* Optimize marketing strategies
+Optimize marketing strategies
 
-* Make data-driven decisions
-
-
-
-
+Support data-driven business decisions
 
 🚀 Skills Demonstrated
 
-* Data Analysis
+Data Analysis
 
-* Business Intelligence
+Business Intelligence
 
-* Dashboard Design
+Excel Dashboard Development
 
-* Retail Sales Analytics
+Retail Sales Analytics
 
-* Excel Automation
+Data Visualization
 
-* Data Visualization
+Data Cleaning & Transformation
 
-* Analytical Thinking
+Analytical Thinking
